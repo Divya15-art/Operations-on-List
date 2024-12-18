@@ -1,0 +1,9 @@
+list1=[]
+print(list1)
+list1=["Sneha","Divya","Ashlehsa","Apurva","Tanisha"]
+print(list1[0:5:2])
+list1.insert(2,"Akshainie")
+list1.append("goodgirls")
+list1.remove("Akshainie")
+print(len(list1))
+print(list1)
